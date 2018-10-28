@@ -6,7 +6,7 @@ gem 'rails', '4.0.0'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
-gem 'stock_quote'
+gem "stock_quote", '~> 2.0.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
